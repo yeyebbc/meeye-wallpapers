@@ -1,32 +1,26 @@
 {
   "Wallpapers":
   [
-  
-        {
+    
+    {
       "author": "YeyeBBC",
-      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_winter.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/winter.jpg",
-      "name": "Winter"
-    },
-            {
-      "author": "YeyeBBC",
-      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_street_dreams.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/street_dreams.jpg",
-      "name": "Street Dreams"
+      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_abandoned_lock.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/abandoned_lock.jpg",
+      "name": "Abandoned Lock"
     },
     
     {
       "author": "YeyeBBC",
-      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_sky_of_summer.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/sky_of_summer.jpg",
-      "name": "Sky of Summer"
+      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_autumn_equinox.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/autumn_equinox.jpg",
+      "name": "Autumn Equinox"
     },
     
-        {
+    {
       "author": "YeyeBBC",
-      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_scripts.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/scripts.jpg",
-      "name": "Scripts"
+      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_cloud_breaker_low_poly.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/cloud_breaker_low_poly.jpg",
+      "name": "Cloud Breaker Low Poly"
     },
     
     {
@@ -36,29 +30,32 @@
       "name": "Lane of Late Autumn"
     },
     
+    {
+      "author": "YeyeBBC",
+      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_sky_of_summer.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/sky_of_summer.jpg",
+      "name": "Sky of Summer"
+    },
     
     {
       "author": "YeyeBBC",
-      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_cloud_breaker_low_poly.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/cloud_breaker_low_poly.jpg",
-      "name": "Cloud Breaker Low Poly"
-
+      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_scripts.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/scripts.jpg",
+      "name": "Scripts"
     },
     
-        {
+    {
       "author": "YeyeBBC",
-      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_autumn_equinox.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/autumn_equinox.jpg",
-      "name": "Autumn Equinox"
-
+      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_street_dreams.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/street_dreams.jpg",
+      "name": "Street Dreams"
     },
     
-            {
+    {
       "author": "YeyeBBC",
-      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_abandoned_lock.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/abandoned_lock.jpg",
-      "name": "Abandoned Lock"
-
+      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_winter.jpg",
+      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/winter.jpg",
+      "name": "Winter"
     }
     
   ]
