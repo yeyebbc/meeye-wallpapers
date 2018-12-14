@@ -11,37 +11,9 @@
     
     {
       "author": "YeyeBBC",
-      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_cloud_breaker_low_poly.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/cloud_breaker_low_poly.jpg",
-      "name": "Cloud Breaker Low Poly"
-    },
-    
-    {
-      "author": "YeyeBBC",
       "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_lane_of_late_autumn.jpg",
       "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/lane_of_late_autumn.jpg",
       "name": "Lane of Late Autumn"
-    },
-    
-    {
-      "author": "YeyeBBC",
-      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/sky_of_summer.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/sky_of_summer.jpg",
-      "name": "Sky of Summer"
-    },
-    
-    {
-      "author": "YeyeBBC",
-      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_scripts.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/scripts.jpg",
-      "name": "Scripts"
-    },
-    
-    {
-      "author": "YeyeBBC",
-      "url": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Images/com_street_dreams.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/antoniacrespoa2/meeye-wallpapers/master/Thumbnails/street_dreams.jpg",
-      "name": "Street Dreams"
     },
     
     {
@@ -52,18 +24,34 @@
     },
     
     {
-      "author": "Unsplash",
+      "author": "Tyler Lastovich on Unsplash",
       "url": "https://images.unsplash.com/photo-1544687216-294c8cf702f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9.jpg",
       "thumbUrl": "https://images.unsplash.com/photo-1544687216-294c8cf702f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9.jpg",
       "name": "Breakfast"
     },
     
     {
-      "author": "Unsplash",
+      "author": "Anh Ha on Unsplash",
       "url": "https://images.unsplash.com/photo-1544681655-6e5bff3ec253?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9.jpg",
       "thumbUrl": "https://images.unsplash.com/photo-1544681655-6e5bff3ec253?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9.jpg",
-      "name": "Breakfast"
-    }
+      "name": "Juice Drinks"
+    },
+    
+    {
+      "author": "Clay Bank on Unsplash",
+      "url": "https://images.unsplash.com/photo-1544373616-31fb1cae7864?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjIxNTV9.jpg",
+      "thumbUrl": "https://images.unsplash.com/photo-1544373616-31fb1cae7864?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80.jpg",
+      "name": "By the Window"
+    },
+    
+    {
+      "author": "Blake Cheek on Unsplash",
+      "url": "https://images.unsplash.com/photo-1544402316-ad9d0b2e7642?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjIxNTV9.jpg",
+      "thumbUrl": "https://images.unsplash.com/photo-1544402316-ad9d0b2e7642?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80.jpg",
+      "name": "Fall is Gone"
+    },
+    
+    
     
     
   ]
